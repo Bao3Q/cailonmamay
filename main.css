@@ -1,0 +1,40 @@
+#first-heading {
+    color: lawngreen;
+    font-size: 100px;
+}
+.second-heading {
+    color:green;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    background-color:lime;
+
+}
+.box2 {
+    background-color:bisque;
+}
+h3 {
+    font-size: 300px;
+}
+h3:hover {
+    color:red;
+}
+
+.box3 {
+    background-color:aqua;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    float: left;
+    align-content: center;
+    text-align: center;
+    border: 6px solid ;
+    padding: 12px;
+    box-sizing: border-box;
+}
