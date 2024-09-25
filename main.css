@@ -1,3 +1,11 @@
+.headshot {
+    font-size: 100px;
+    text-align: center;
+    align-content: center;
+    position: fixed;
+    background-color:greenyellow;
+    border: 10px solid;
+}
 #first-heading {
     color: lawngreen;
     font-size: 100px;
@@ -37,4 +45,21 @@ h3:hover {
     border: 6px solid ;
     padding: 12px;
     box-sizing: border-box;
+}
+.h1 {
+    position: relative;
+}
+.boxcon {
+    background-color: deeppink;
+    width: 60px;
+    height: 60px;
+}
+.boxcha {
+    width: 100%;
+    height: 120px;
+    background-color: yellow;
+}
+
+ul {
+    height: 100px;
 }
